@@ -1,4 +1,4 @@
-package in.cg.git;
+package org.cg.git;
 
 public class Day1 {
 public static void main(String args[])
